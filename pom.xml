@@ -1,0 +1,21 @@
+<project>
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>kuleuven</groupId>
+	<artifactId>bookstore-application</artifactId>
+	<version>1.0.0</version>
+
+<dependencies>
+	<dependency>
+		<groupId>org.testng</groupId>
+		<artifactId>testng</artifactId>
+		<version>7.3.0</version>
+		<scope>test</scope>
+	</dependency>
+</dependencies>
+
+<properties>
+	<maven.compiler.release>11</maven.compiler.release>
+</properties>	
+
+
+</project>
